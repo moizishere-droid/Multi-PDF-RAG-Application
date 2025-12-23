@@ -91,8 +91,6 @@ streamlit run app.py
 Try the app live on **Streamlit**:
 [**Open Multi‑PDF RAG on Streamlit**](https://multi-pdf-rag-application-7b6vxjdfqtzhux8tdpjfpe.streamlit.app/)
 
-*(Replace the link with your deployed Streamlit URL)*
-
 ---
 
 ## ✨ Future Improvements
