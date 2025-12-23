@@ -23,7 +23,7 @@
 ```bash
 # Clone repo
 git clone https://github.com/moizishere-droid/Multi-PDF-RAG-Application.git
-cd multi-pdf-rag
+cd Multi-PDF-RAG-Application
 
 # Install dependencies
 pip install -r requirements.txt
