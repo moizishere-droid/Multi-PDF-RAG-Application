@@ -102,4 +102,3 @@ Try the app live on **Streamlit**:
 * Improve UI/UX with file previews and upload progress.
 * Multi-language PDF support.
 
- want me to do that?
