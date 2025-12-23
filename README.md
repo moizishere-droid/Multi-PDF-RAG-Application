@@ -20,8 +20,8 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/multi-pdf-rag.git
-cd multi-pdf-rag
+git clone https://github.com/moizishere-droid/Multi-PDF-RAG-Application.git
+cd Multi-PDF-RAG-Application
 ```
 
 2. **Create a virtual environment**
@@ -89,7 +89,7 @@ streamlit run app.py
 ## 📸 Demo / Streamlit Link
 
 Try the app live on **Streamlit**:
-[**Open Multi‑PDF RAG on Streamlit**](https://share.streamlit.io/your-username/multi-pdf-rag/main/app.py)
+[**Open Multi‑PDF RAG on Streamlit**](https://multi-pdf-rag-application-7b6vxjdfqtzhux8tdpjfpe.streamlit.app/)
 
 *(Replace the link with your deployed Streamlit URL)*
 
