@@ -22,7 +22,7 @@
 ## 🚀 Quick Start
 ```bash
 # Clone repo
-git clone [https://github.com/yourusername/multi-pdf-rag](https://github.com/moizishere-droid/Multi-PDF-RAG-Application).git
+git clone https://github.com/moizishere-droid/Multi-PDF-RAG-Application.git
 cd multi-pdf-rag
 
 # Install dependencies
